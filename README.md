@@ -112,7 +112,7 @@ ImageDataGenerator(
 
 ---
 
-## 📈 Results
+## Results
 
 | Model | Test Accuracy | Test Loss | Errors (out of 10k) |
 |---|---|---|---|
